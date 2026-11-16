@@ -41,5 +41,4 @@ The objective is to apply machine learning techniques to a real-world dataset an
 ## Author
 Mohammed Haseeb Ur Rahman
 https://www.linkedin.com/in/mohammed-haseeb-ur-rahman/
-Add your name and LinkedIn profile here.
 
